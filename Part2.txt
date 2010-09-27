@@ -1,0 +1,12 @@
+f)  i)  An event is some action that you want your software to respond to or handle. Examples are key presses and mouse clicking.
+    ii) An event handler is the method or function that tells the system how to react to an event.
+
+g)  1.  Select the form or control for which an event handler is to be made
+    2.  Click the "Events" button (lightning bolt) in the Properties window
+    3.  Select the event that you want to create a handler for.
+    4.  To the right of the event name, enter the desired name for the new handler and press the "Enter" key. It is recommended to use a name that describes the functionality of the event.
+    5.  The Code Editor should now be visible. Enter your desired event handler code into the space indicated
+
+h)  Menus are a way of holding tools or commands that are related to each other, often found in a menu bar. Context menus are a list of commands that appear in response to a right click and relate to the thing that has been clicked on.
+
+i)  RadioButtons can be grouped using the Panel control or a GroupBox Control. This is useful so that you can have multiple sets of RadioButtons.
