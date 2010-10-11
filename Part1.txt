@@ -2,7 +2,8 @@ COMP 3020 Assignment 1
 
 Part I:
 
-a) User profiles
+a) User Profiles
+
 Younger generation: 
   - age 15-30
   - are tech literate
@@ -16,3 +17,44 @@ Older generation: age 51+
   - not very tech literate
   - like to watch classic films
 
+b) Usability Goals and Criteria
+
+Effectiveness:
+  - Does the system allow users to search for films based on attributes (e.g., actors, director, movie type, year for movie, etc)? 
+  - Does the system allow users to personalize information with ratings, has watched/to watch lists, recommendations?
+  - Criteria: 
+    - The system provides feedback to the user's commands.
+
+Efficiency:
+  - Does the system allow the user to do their modifications to the database quickly?
+  - Does the system require a minimal number of steps to perform functions?
+  - Criteria: 
+    - Takes less than 2 minutes to add/change movie info.
+
+Learnability:
+  - Can the user quickly and easily learn how to search for and modify movie entries?
+  - Criteria: 
+    - User does not close program within 5 minutes due to frustration.
+    - Interface intuitive enough to render outside help (eg manuals, instructor) unnecessary.
+
+Memorability:
+  - Can user easily remember primary tasks after not using the system for an extended period of time?
+  - Criteria: 
+    - User can modify movie info in less than 5 minutes after not using system for extended period (eg one month).
+
+c) User Experience Goals
+
+Enjoyable
+Motivating
+
+"Aesthetically pleasing" was considered higher priority for the expected user base (people very interested in film and art) however it was not chosen due to the constraints of quickly making an interface in VisualStudio.
+
+
+
+
+TO DO LIST:
+make sure there are 2 criteria per goal in b
+describe User Exp. goals (c)
+part d
+part e
+part f
