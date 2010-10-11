@@ -1,0 +1,18 @@
+COMP 3020 Assignment 1
+
+Part I:
+
+a) User profiles
+Younger generation: 
+  - age 15-30
+  - are tech literate
+  - generally like modern films that are fast paced and flashy, 
+Middle generation: 
+  - age 31-50
+  - enjoy movies, but aren't necessarily very tech literate
+  - are more cultured and enjoy a range of genres and film ages,
+Older generation: age 51+
+  - want to keep track of films they have seen and their opinions of such films
+  - not very tech literate
+  - like to watch classic films
+

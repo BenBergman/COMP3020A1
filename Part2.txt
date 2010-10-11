@@ -1,12 +1,54 @@
-f)  i)  An event is some action that you want your software to respond to or handle. Examples are key presses and mouse clicking.
-    ii) An event handler is the method or function that tells the system how to react to an event.
+COMP 3020 Assignment 1
 
-g)  1.  Select the form or control for which an event handler is to be made
+Part II:
+
+a) Introduction to Windows Forms: What is a form?
+
+Forms interact with users by presenting information to the user and accepting input from the user. 
+The user interface for a form has controls that the user interacts with.
+
+b) Creating a Windows Application Project: What are the steps to create an application project?
+
+Step #1: Under the File menu, under the sub menu New, select Project.
+Step #2: In the Project Types pane, choose your language.
+Step #3: In the Templates Pane, choose Windows Application for Visual C# projects.
+
+c) Walkthrough: Creating a Simple Windows Form: What is the method to display a message box?
+
+MessageBox.Show("Hello, World!");
+
+d) Creating Windows Forms: How do you resize a form programmatically?
+
+Form1.Size = new System.Drawing.Size(100, 100);
+
+e) Creating Windows Forms: How do you ensure that a form is always the top-most form?
+
+In the Properties window, set the TopMost property to true.
+
+Or with the code,
+myTopForm.TopMost = true;
+
+f) Event Handling in Windows Forms:
+    i) What is an event?
+  
+    An event is some action that you want your software to respond to or handle. Examples are key presses and mouse clicking.
+
+    ii) What is an event handler?
+   
+    An event handler is the method or function that tells the system how to react to an event.
+
+g) Event Handling in Windows Forms: Describe how to create an event handler using the Properties window.
+
+    1.  Select the form or control for which an event handler is to be made
     2.  Click the "Events" button (lightning bolt) in the Properties window
     3.  Select the event that you want to create a handler for.
     4.  To the right of the event name, enter the desired name for the new handler and press the "Enter" key. It is recommended to use a name that describes the functionality of the event.
     5.  The Code Editor should now be visible. Enter your desired event handler code into the space indicated
 
-h)  Menus are a way of holding tools or commands that are related to each other, often found in a menu bar. Context menus are a list of commands that appear in response to a right click and relate to the thing that has been clicked on.
+h) Menus and Context Menus: What is the difference between a menu and a context menu?
 
-i)  RadioButtons can be grouped using the Panel control or a GroupBox Control. This is useful so that you can have multiple sets of RadioButtons.
+Menus are a way of holding tools or commands that are related to each other, often found in a menu bar. Context menus are a list of commands that appear in response to a right click and relate to the thing that has been clicked on.
+
+i) Windows Forms Controls: Which control allows you to group radio buttons to function as a set? Why would such functionality be useful?
+
+RadioButtons can be grouped using the Panel control or a GroupBox Control. This is useful so that you can have multiple sets of RadioButtons.
