@@ -24,12 +24,14 @@ Effectiveness:
   - Does the system allow users to personalize information with ratings, has watched/to watch lists, recommendations?
   - Criteria: 
     - The system provides feedback to the user's commands.
+    - The system stores user input.
 
 Efficiency:
   - Does the system allow the user to do their modifications to the database quickly?
   - Does the system require a minimal number of steps to perform functions?
   - Criteria: 
     - Takes less than 2 minutes to add/change movie info.
+    - Takes less than 1 minute to retrieve list of previously viewed films.
 
 Learnability:
   - Can the user quickly and easily learn how to search for and modify movie entries?
@@ -40,14 +42,32 @@ Learnability:
 Memorability:
   - Can user easily remember primary tasks after not using the system for an extended period of time?
   - Criteria: 
-    - User can modify movie info in less than 5 minutes after not using system for extended period (eg one month).
+    - User can modify movie info in less than 5 minutes after not using system for an extended period (eg one month).
+    - User must be able to retrieve list of recommended films in less than 1 minute after not using the system for an extended period (eg one month).
 
 c) User Experience Goals
 
-Enjoyable
-Motivating
+Enjoyable - Users must be able to have a pleasing experience while using system.
+Motivating - System must be simple and quick to use in order to promote continued use of the system.
 
 "Aesthetically pleasing" was considered higher priority for the expected user base (people very interested in film and art) however it was not chosen due to the constraints of quickly making an interface in VisualStudio.
+
+d) Identifying User Needs
+
+- Search by range (specifically date range, but range of other data types might be useful)
+- "to view" list and search by actor/director/composer valuable
+- display of formal/user reviews helpful
+- "most viewed" or "staff favourites" feature might be handy when finding a place to start
+- adding personal notes is useful when finding a film to rewatch or recommend, but adding full reviews is not useful unless published to a database with a larger set of users
+- connection to friends also using the system
+  - see films friends have liked/watched
+  - could be specific (eg "brian liked star wars") or generic (eg "3 of your friends liked star wars")
+- integration with email and browser would make adding films to "to view" list and adding friend recommendations easier
+- list of new releases useful on startup
+- list of films related to currently displayed film (eg "people who watched this, also watched _____")
+- connection to dynamic database necessary, connection to other users helpful
+  - limiting system to static desktop application makes friend recommendations nearly impossible to aggregate)
+- movie posters and related images would help make the system more visually appealing
 
 
 
