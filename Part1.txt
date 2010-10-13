@@ -81,6 +81,34 @@ User characteristics
 Usability
 - the user should be able to store personal info for each movie in the database
 
+e) Scenarios
+
+15-30
+Jordan, a 24 year old university student, is an avid movie goer. Having watched multiple movies per week for several years, Jordan wants to keep better track of all of the films he has seen and his opinions of them for future reference. His memory is not always that great, so he uses a system that is easy to search and is easy to add personal information to. He also has a lot of movie watching friends who recommend films to him on a regular basis. He is really happy that he can access all of these recommendations through his movie tracking systems.
+
+f) Task Analysis
+
+0. Add personal information to a movie
+1. search for a movie
+  1.1 search by title/author/director/etc.
+2. add information to film
+  2.1 add a movie rating
+  2.2 add a comment to a movie
+  2.3 mark movie as recommended
+  2.4 mark movie as "to view"
+
+Plan 0:
+do 1-2 in that order
+
+Plan 1:
+do 1.1 using as many operators as required
+
+Plan 2:
+do any of 2.1, 2.2, 2.3, or 2.4 in any order, depending on desired action
+
+
+
+
 
 
 
