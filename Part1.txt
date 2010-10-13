@@ -54,20 +54,36 @@ Motivating - System must be simple and quick to use in order to promote continue
 
 d) Identifying User Needs
 
+Functional
 - Search by range (specifically date range, but range of other data types might be useful)
 - "to view" list and search by actor/director/composer valuable
 - display of formal/user reviews helpful
+
+Data
 - "most viewed" or "staff favourites" feature might be handy when finding a place to start
 - adding personal notes is useful when finding a film to rewatch or recommend, but adding full reviews is not useful unless published to a database with a larger set of users
 - connection to friends also using the system
   - see films friends have liked/watched
   - could be specific (eg "brian liked star wars") or generic (eg "3 of your friends liked star wars")
-- integration with email and browser would make adding films to "to view" list and adding friend recommendations easier
 - list of new releases useful on startup
-- list of films related to currently displayed film (eg "people who watched this, also watched _____")
 - connection to dynamic database necessary, connection to other users helpful
   - limiting system to static desktop application makes friend recommendations nearly impossible to aggregate)
 - movie posters and related images would help make the system more visually appealing
+- list of films related to currently displayed film (eg "people who watched this, also watched _____")
+
+Environmental requirements/context of use
+- integration with email and browser would make adding films to "to view" list and adding friend recommendations easier
+
+User characteristics
+- users will be casual users of the system
+- users will be 15 and older
+
+Usability
+- the user should be able to store personal info for each movie in the database
+
+
+
+
 
 
 
