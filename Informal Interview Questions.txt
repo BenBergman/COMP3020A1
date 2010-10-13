@@ -1,0 +1,15 @@
+Informal Interview Script
+
+The system we are trying to design is a movie organizer that allows the user to search for information about a movie using many parameters as well as adding personal information such as a personal rating, marking films as "to view", and listing recommendations of friends.
+
+If you were to use such a system, what features do you think would be most valuable?
+
+When you are looking for a movie to watch, what are your valued sources for recommendations?
+
+What would make it easier to integrate this system into your present movie watching "work-flow"?
+
+What features would you like to see in a mobile phone application? A browser plugin?
+
+What would motivate you to use this kind of system? What would motivate your friends to use this kind of system?
+
+When using similar software that helps organize media in your life, what have been some features that you have found frustrating?

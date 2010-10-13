@@ -1,0 +1,24 @@
+Informal interview - Amara Koop
+
+search by range (date)
+"to view" list is valuable
+search by actor/director/composer valuable
+pulling in or linking to formal and user reviews helpful
+online shopping things often have links to "most viewed" or "(staff) favourites" so you have a place to start finding new films
+comments on films helpful when finding a film to rewatch, but adding reviews not useful unless published into some publicly accessible database
+like a chat program where they can post something like a status update, but in this case it would be a recommendation/rating
+  could be "so and so liked this" or anonymous with "three of your friends liked this"
+email integration (gmail labs feature, browser plugin)
+  browser feature to add a movie to "to view" list when information about it is on the screen
+
+(my thoughts: phone app/text service; splash screen is new releases that might stir memory of friend's recommendations)
+
+"customers who bought this also bought ____"
+connection to larger online "thing" (desktop only might make friend recommendations useless, but if it tells user that lots of friends liked movie or what overall user group likes, makes system more beneficial)
+movie list needs to be up to date and comprehensive
+movie posters/images
+
+examples of frustrating media related programs
+itunes/songbird: media missing, music just stops (it recognizes added tracks, but lost tracks just cause errors)
+  "it should work properly"
+
