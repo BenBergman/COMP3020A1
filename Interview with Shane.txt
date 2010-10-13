@@ -1,0 +1,44 @@
+Informal Interview Script
+
+Interviewer: Katherine Sierks
+Interviewee: Shane Thiessen
+
+Katherine:
+The system we are trying to design is a movie organizer that allows the user to search for information about a movie 
+using many parameters as well as adding personal information such as a personal rating, marking films as "to view", 
+and listing recommendations of friends.
+
+Katherine:
+Do you currently use a system as described? If so, what is it called and how frequent do you use it?
+
+Shane: I don't currently use a system as described
+
+Katherine:
+What features would be most valuable to you?
+
+Shane: I think the personal recomendation as well as the ability to share with friends would be most valuable.
+
+Katherine:
+What features would you find frustrating?
+
+Shane: I'm worried a cluttered interface would be fustrating.
+
+Katherine:
+What would motivate you to use this kind of system? What would motivate your friends to use this kind of system?
+
+Shane: Having it be easy to use an intuitive would be the bigest motivator for me and my friends, followed closely by the amount to content avaliable.
+
+Katherine:
+What would make it easier to integrate this system into your life-style?
+
+Shane: Having it avaliable on multiple platforms, such as my computer and my phone, would make it easier to integrate.
+
+Katherine:
+What features would you like to see in a mobile phone application? A browser plugin?
+
+Shane: A mobile phone app doesn't need as much detail, but it should include my personal reccomendations to help me decide which move to see on the go.
+
+Katherine:
+When you are looking for a movie to watch, what are your valued sources for recommendations?
+
+Shane: I like to use review sites such as rottentomatoes.com that compile multiple reviews together. Friends and Family recommendations are also very important.
